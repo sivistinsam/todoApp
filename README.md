@@ -1,4 +1,5 @@
 # React Todo App 
+Hosted Link: https://todo-app-sandeep.netlify.app/
 ![Screenshot 2023-12-23 at 1 31 03 AM](https://github.com/sivistinsam/todoApp/assets/57314972/49ce665d-948c-4e81-9245-54bb062fbbef)
 
 This Project is a Todo List app with below Features:
@@ -16,6 +17,7 @@ any change in the state of the app (it should work like a regular offline app).
 Tech Used: Html,CSS,Javascript,React,Material UI.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Hosted Link: https://todo-app-sandeep.netlify.app/
 
 ## Available Scripts
